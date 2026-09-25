@@ -26,11 +26,6 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
-file = "mods/craterlib.pw.toml"
-hash = "e22afb762eb3161a8114545dc97affda25b4cb519b79b81e9bc7533d9b09e74f"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
