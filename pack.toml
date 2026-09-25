@@ -1,0 +1,13 @@
+name = "Friends RPG Server"
+author = "Nickleberry1"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f5d643aebd2a46738a3948836323cd6724827b654d8e12bb9e614dc3e8aca25c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.251"
